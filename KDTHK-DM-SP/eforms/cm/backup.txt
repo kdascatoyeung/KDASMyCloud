@@ -1,0 +1,103 @@
+﻿ bool isReqOfficeFocused = false; bool isReqCostcentreFocused = false;
+
+        bool isCustCodeFocused = false; bool isCustNameFocused = false; bool isCustCurrFocused = false;
+        bool isPayTermFocused = false; bool isDueDateFocused = false; bool isDivCodeFocused = false;
+        bool isDivNameFocused = false; bool isInchargeFocused = false;
+
+        bool isReasonFocused = false; bool isInvNo = false; bool isRingiNo = false;
+
+        bool isExRateMonthFocused = false; bool isExRateFocused = false; bool isDnCurr1Focused = false;
+        bool isDnTotal1Focused = false; bool isDnCurr2Focused = false; bool isDnTotal2Focused = false;
+
+        bool isAc1Focused = false; bool isCostCentre1Focused = false; bool isInvCurr1Focused_1 = false; bool isInvTotal1Focused_1 = false; bool isInvCurr1Focused_2 = false; bool isInvTotal1Focused_2 = false;
+        bool isAc2Focused = false; bool isCostCentre2Focused = false; bool isInvCurr2Focused_1 = false; bool isInvTotal2Focused_1 = false; bool isInvCurr2Focused_2 = false; bool isInvTotal2Focused_2 = false;
+        bool isAc3Focused = false; bool isCostCentre3Focused = false; bool isInvCurr3Focused_1 = false; bool isInvTotal3Focused_1 = false; bool isInvCurr3Focused_2 = false; bool isInvTotal3Focused_2 = false;
+        bool isAc4Focused = false; bool isCostCentre4Focused = false; bool isInvCurr4Focused_1 = false; bool isInvTotal4Focused_1 = false; bool isInvCurr4Focused_2 = false; bool isInvTotal4Focused_2 = false;
+        bool isAc5Focused = false; bool isCostCentre5Focused = false; bool isInvCurr5Focused_1 = false; bool isInvTotal5Focused_1 = false; bool isInvCurr5Focused_2 = false; bool isInvTotal5Focused_2 = false;
+
+        public DebitCreditNoteForm3()
+        {
+            InitializeComponent();
+
+            /*txtReqOffice.GotFocus += new EventHandler(ControlGotFocused); txtReqOffice.LostFocus += new EventHandler(ControlLostFocused);
+            
+            txtReqCostcentre.GotFocus += new EventHandler(ControlGotFocused);txtReqCostcentre.LostFocus += new EventHandler(ControlLostFocused);
+            
+            txtCustCode.GotFocus += new EventHandler(ControlGotFocused);txtCustCode.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtCustName.GotFocus += new EventHandler(ControlGotFocused);txtCustName.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtCustCurr.GotFocus += new EventHandler(ControlGotFocused); txtCustCurr.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtPayTerm.GotFocus += new EventHandler(ControlGotFocused); txtPayTerm.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtDueDate.GotFocus += new EventHandler(ControlGotFocused); txtDueDate.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtCustDiv.GotFocus += new EventHandler(ControlGotFocused); txtCustDiv.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtDivName.GotFocus += new EventHandler(ControlGotFocused); txtDivName.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtIncharge.GotFocus += new EventHandler(ControlGotFocused); txtIncharge.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtReason.GotFocus += new EventHandler(ControlGotFocused); txtReason.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtInvNo.GotFocus += new EventHandler(ControlGotFocused); txtInvNo.LostFocus += new EventHandler(ControlLostFocused);
+
+            txtRingiNo.GotFocus += new EventHandler(ControlGotFocused); txtRingiNo.LostFocus += new EventHandler(ControlLostFocused);
+
+            cbExMonth.GotFocus += new EventHandler(cbExMonth_GotFocus); cbExMonth.LostFocus +=new EventHandler(cbExMonth_LostFocus);
+
+            txtExRate.GotFocus += new EventHandler(txtExRate_GotFocus); txtExRate.LostFocus += new EventHandler(txtExRate_LostFocus);
+
+            txtDnCurr1.GotFocus += new EventHandler(txtDnCurr1_GotFocus); txtDnCurr1.LostFocus += new EventHandler(txtDnCurr1_LostFocus);
+
+            txtDnTotal1.GotFocus += new EventHandler(txtDnTotal1_GotFocus); txtDnTotal1.LostFocus += new EventHandler(txtDnTotal1_LostFocus);
+
+            txtDnCurr2.GotFocus += new EventHandler(txtDnCurr2_GotFocus); txtDnCurr2.LostFocus += new EventHandler(txtDnCurr2_LostFocus);
+
+            cbAc1.GotFocus += new EventHandler(cbAc1_GotFocus); cbAc1.LostFocus+= new EventHandler(cbAc1_LostFocus);
+
+            cbCostCentre1.GotFocus += new EventHandler(cbCostCentre1_GotFocus); cbCostCentre1.LostFocus += new EventHandler(cbCostCentre1_LostFocus);
+
+            cbInvCurr1.GotFocus += new EventHandler(cbInvCurr1_GotFocus); cbInvCurr1.LostFocus += new EventHandler(cbInvCurr1_LostFocus);*/
+        }
+
+        private void ControlGotFocused(object sender, EventArgs e)
+        {
+            Control control = (Control)sender;
+            string tag = control.Tag.ToString().Trim();
+
+            isReqOfficeFocused = isReqCostcentreFocused = false;
+
+            isCustNameFocused = false;
+
+            if (tag == "reqoffice") isReqOfficeFocused = true;
+            if (tag == "reqcostcentre") isReqCostcentreFocused = true;
+            if (tag == "custname") isCustNameFocused = true;
+            if (tag == "custcode") isCustCodeFocused = true;
+
+            this.Refresh();
+        }
+
+        private void ControlLostFocused(object sender, EventArgs e)
+        {
+            Control control = (Control)sender;
+            string tag = control.Tag.ToString().Trim();
+
+            isReqOfficeFocused = isReqCostcentreFocused = false;
+
+            isCustCodeFocused = isCustNameFocused = false;
+
+            this.Refresh();
+        }
+
+        private void DebitCreditNoteForm3_Paint(object sender, PaintEventArgs e)
+        {
+            Color hightlight = Color.FromArgb(255, 80, 80);
+
+            bdReqOffice.BorderColor = isReqOfficeFocused ? hightlight : Color.Silver;
+            bdReqCostcentre.BorderColor = isReqCostcentreFocused ? hightlight : Color.Silver;
+
+            bdCustCode.BorderColor = isCustCodeFocused ? hightlight : Color.Silver;
+            bdCustName.BorderColor = isCustNameFocused ? hightlight : Color.Silver;
+        }

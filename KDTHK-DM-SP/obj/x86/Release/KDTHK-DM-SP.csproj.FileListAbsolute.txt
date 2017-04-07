@@ -1,0 +1,474 @@
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.config
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\Interop.SSCE.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.ResolveComReference.cache
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\images\imgemail.png
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\LocalDb.sdf
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\xmls\setting.xml
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\xmls\apps.xml
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Properties\Resources.resx
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Properties\Resources.Designer.cs
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.manifest
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.application
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.pdb
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\AdvancedDataGridView.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\CustomUtil.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Html.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Xml.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Interpreter.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Parser.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Sys.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\iTextAsian.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\iTextAsianCmaps.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\itextsharp.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\NRtfTree.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csprojResolveAssemblyReference.cache
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.Backup.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.ErrorBox.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingViewForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingErrorBox.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewDetailForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingSelectionForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorMasterAttachmentForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorSearchForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.VendorMasterForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmAirForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmApplicationForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmChopForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmKeyForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmLiftForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmParkForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmPurchaseForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmRepairForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmStampForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmVisaForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.subforms.DeptSelectionForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.ApprovalView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.CustomerForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteForm3.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView2.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm2.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.RejectForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CurrencySearchForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CustomerSearchForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DebitSelectionForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DescriptionSelectionForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.NumberInputForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.Eform.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormHistory.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormInfo.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormOverview.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormR3Info.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormSelection.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.AssetLoaning.AssetLoaningMain.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormComment.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormIT.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormITApplication.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormPermission.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3Application.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormSupport.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.AttachmentForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CopyForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.DocumentForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.KeywordForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.MultiShareForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewFolderForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewGroupForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeSendForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.OutsideShareForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PasswordForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PropertyForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.ReceivedForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RelocationForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RenameForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CustomGroupForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SingleShareForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SplashForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserGlobalForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserHeadForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Main.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Properties.Resources.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApplicationView2.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApprovalView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DiscView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DocumentView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.EformView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.PhoneView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.SettingView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.GroupSetupView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordResetForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordSetupView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.GenerateResource.Cache
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe.manifest
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.application
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.pdb
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.config
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\Interop.SSCE.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.ResolveComReference.cache
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.pdb
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\images\imgemail.png
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\LocalDb.sdf
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\xmls\setting.xml
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\xmls\apps.xml
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Properties\Resources.resx
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Properties\Resources.Designer.cs
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.manifest
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.application
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.pdb
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\AdvancedDataGridView.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\CustomUtil.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Html.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Xml.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Interpreter.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Parser.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Sys.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\iTextAsian.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\iTextAsianCmaps.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\itextsharp.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\NRtfTree.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\System.Data.DataSetExtensions.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\System.Data.SqlServerCe.dll
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csprojResolveAssemblyReference.cache
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.Backup.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.ErrorBox.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingViewForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingErrorBox.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewDetailForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingSelectionForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorMasterAttachmentForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorSearchForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.VendorMasterForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmAirForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmApplicationForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmChopForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmKeyForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmLiftForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmParkForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmPurchaseForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmRepairForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmStampForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmVisaForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.subforms.DeptSelectionForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.ApprovalView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.CustomerForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteForm3.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView2.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm2.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.RejectForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CurrencySearchForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CustomerSearchForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DebitSelectionForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DescriptionSelectionForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.NumberInputForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.Eform.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormHistory.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormInfo.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormOverview.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormR3Info.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormSelection.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.AssetLoaning.AssetLoaningMain.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormComment.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormIT.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormITApplication.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormPermission.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3Application.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormSupport.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.AttachmentForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CopyForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.DocumentForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.KeywordForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.MultiShareForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewFolderForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewGroupForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeSendForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.OutsideShareForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PasswordForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PropertyForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.ReceivedForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RelocationForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RenameForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CustomGroupForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SingleShareForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SplashForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserGlobalForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserHeadForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Main.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Properties.Resources.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApplicationView2.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApprovalView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DiscView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DocumentView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.EformView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.PhoneView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.SettingView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.GroupSetupView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordResetForm.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordSetupView.resources
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.GenerateResource.Cache
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe.manifest
+D:\Projects\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.application
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.config
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\Interop.SSCE.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.ResolveComReference.cache
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.pdb
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\images\imgemail.png
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\xmls\setting.xml
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\xmls\apps.xml
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Properties\Resources.resx
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Properties\Resources.Designer.cs
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.manifest
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.application
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.pdb
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\AdvancedDataGridView.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\CustomUtil.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Html.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Xml.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Interpreter.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Parser.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Itenso.Sys.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\iTextAsian.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\iTextAsianCmaps.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\itextsharp.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\NRtfTree.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\System.Data.DataSetExtensions.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\System.Data.SqlServerCe.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csprojResolveAssemblyReference.cache
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.Backup.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.ErrorBox.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingViewForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingErrorBox.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewDetailForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingSelectionForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorMasterAttachmentForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorSearchForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.VendorMasterForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmAirForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmApplicationForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmChopForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmKeyForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmLiftForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmParkForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmPurchaseForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmRepairForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmStampForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmVisaForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.subforms.DeptSelectionForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.ApprovalView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.CustomerForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteForm3.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView2.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm2.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.RejectForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CurrencySearchForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CustomerSearchForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DebitSelectionForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DescriptionSelectionForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.NumberInputForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.Eform.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormHistory.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormInfo.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormOverview.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormR3Info.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormSelection.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.AssetLoaning.AssetLoaningMain.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormComment.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormIT.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormITApplication.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormPermission.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3Application.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormSupport.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.AttachmentForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CopyForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.DocumentForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.KeywordForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.MultiShareForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewFolderForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewGroupForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeSendForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.OutsideShareForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PasswordForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PropertyForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.ReceivedForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RelocationForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RenameForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CustomGroupForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SingleShareForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SplashForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserGlobalForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserHeadForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Main.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Properties.Resources.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApprovalView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DiscView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DocumentView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.EformView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.PhoneView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.SettingView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.GroupSetupView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordResetForm.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordSetupView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.GenerateResource.Cache
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe.manifest
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.application
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApplicationView.resources
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Common.dll
+D:\Cato-WS\KDTHK-DM-SP\KDTHK-DM-SP\bin\Release\Common.pdb
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.config
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\Interop.SSCE.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.ResolveComReference.cache
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.pdb
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\images\imgemail.png
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\xmls\setting.xml
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\xmls\apps.xml
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Properties\Resources.resx
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Properties\Resources.Designer.cs
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe.manifest
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.application
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.exe
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\KDTHK-DM-SP.pdb
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\AdvancedDataGridView.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Common.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\CustomUtil.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Html.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Converter.Xml.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Interpreter.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Itenso.Rtf.Parser.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Itenso.Sys.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\iTextAsian.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\iTextAsianCmaps.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\itextsharp.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\NRtfTree.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\System.Data.DataSetExtensions.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\System.Data.SqlServerCe.dll
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Common.pdb
+D:\Git\KDASMyCloud\KDTHK-DM-SP\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csprojResolveAssemblyReference.cache
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.Backup.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.backup.ErrorBox.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.OutstandingViewForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingErrorBox.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewDetailForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingPreviewForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.OutstandingSelectionForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorMasterAttachmentForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.subforms.VendorSearchForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.acc.VendorMasterForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmAirForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmApplicationForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmChopForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmKeyForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmLiftForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmParkForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmPurchaseForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmRepairForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmStampForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.AdmVisaForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.adm.subforms.DeptSelectionForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.ApprovalView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.CustomerForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteForm3.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitCreditNoteFormView2.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.DebitNoteForm2.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.RejectForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CurrencySearchForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.CustomerSearchForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DebitSelectionForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.DescriptionSelectionForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.cm.subforms.NumberInputForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.Eform.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormHistory.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormInfo.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormOverview.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormR3Info.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.FormSelection.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.AssetLoaning.AssetLoaningMain.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormComment.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormIT.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormITApplication.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormPermission.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormR3Application.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.eforms.hra.FormSupport.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.AttachmentForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CopyForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.DocumentForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.KeywordForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.MultiShareForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewFolderForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NewGroupForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.NoticeSendForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.OutsideShareForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PasswordForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.PropertyForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.ReceivedForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RelocationForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.RenameForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.CustomGroupForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SingleShareForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.SplashForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserGlobalForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.forms.UserHeadForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Main.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.Properties.Resources.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApplicationView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.ApprovalView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DiscView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.DocumentView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.EformView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.PhoneView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.SettingView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.GroupSetupView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordResetForm.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK_DM_SP.views.subviews.PasswordSetupView.resources
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.csproj.GenerateResource.Cache
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.exe.manifest
+D:\Git\KDASMyCloud\KDTHK-DM-SP\obj\x86\Release\KDTHK-DM-SP.application

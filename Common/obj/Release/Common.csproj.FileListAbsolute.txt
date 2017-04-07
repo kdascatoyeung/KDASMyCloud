@@ -1,0 +1,4 @@
+D:\Cato-WS\KDTHK-DM-SP\Common\bin\Release\Common.dll
+D:\Cato-WS\KDTHK-DM-SP\Common\bin\Release\Common.pdb
+D:\Cato-WS\KDTHK-DM-SP\Common\obj\Release\Common.dll
+D:\Cato-WS\KDTHK-DM-SP\Common\obj\Release\Common.pdb

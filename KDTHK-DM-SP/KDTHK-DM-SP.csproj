@@ -1,0 +1,1200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1A33673B-F64F-4686-8388-5A5CC5D4623F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KDTHK_DM_SP</RootNamespace>
+    <AssemblyName>KDTHK-DM-SP</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\kdthk-dm1\project\IT System\MyCloud Beta\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\kdthk-dm1\Project\IT System\MyCloud Beta\</UpdateUrl>
+    <ProductName>MyCloud</ProductName>
+    <PublisherName>KDTHK</PublisherName>
+    <MinimumRequiredVersion>1.0.0.224</MinimumRequiredVersion>
+    <WebPage>publish.htm</WebPage>
+    <AutorunEnabled>true</AutorunEnabled>
+    <TrustUrlParameters>true</TrustUrlParameters>
+    <ApplicationRevision>318</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>STC-Cloud-Icon-300x300.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C029CF6FB3F72DC3A075C05EA4E648E398A22046</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>KDTHK-DM-SP_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=1.0.20018.13, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\CustomUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="Itenso.Rtf.Converter.Html, Version=1.7.0.0, Culture=neutral, PublicKeyToken=d7f23b760ed5c748, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\Itenso.Rtf.Converter.Html.dll</HintPath>
+    </Reference>
+    <Reference Include="Itenso.Rtf.Converter.Xml, Version=1.7.0.0, Culture=neutral, PublicKeyToken=d7f23b760ed5c748, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\Itenso.Rtf.Converter.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="Itenso.Rtf.Interpreter, Version=1.7.0.0, Culture=neutral, PublicKeyToken=d7f23b760ed5c748, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\Itenso.Rtf.Interpreter.dll</HintPath>
+    </Reference>
+    <Reference Include="Itenso.Rtf.Parser, Version=1.7.0.0, Culture=neutral, PublicKeyToken=d7f23b760ed5c748, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\Itenso.Rtf.Parser.dll</HintPath>
+    </Reference>
+    <Reference Include="Itenso.Sys, Version=2.3.0.0, Culture=neutral, PublicKeyToken=d7f23b760ed5c748, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\Itenso.Sys.dll</HintPath>
+    </Reference>
+    <Reference Include="iTextAsian, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\iTextAsian.dll</HintPath>
+    </Reference>
+    <Reference Include="iTextAsianCmaps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\iTextAsianCmaps.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NRtfTree, Version=0.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\NRtfTree.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="backup\Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backup\Backup.Designer.cs">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="backup\ErrorBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backup\ErrorBox.Designer.cs">
+      <DependentUpon>ErrorBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="controls\DataGridViewRichTextBoxColumn.cs" />
+    <Compile Include="controls\DrawRtfText.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="controls\RichTextBoxDrawer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="controls\RichTextBoxPrinter.cs" />
+    <Compile Include="controls\VirtualDataGridViewColumn.cs" />
+    <Compile Include="eforms\acc\AccData.cs" />
+    <Compile Include="eforms\acc\AccService.cs" />
+    <Compile Include="eforms\acc\AccUtil.cs" />
+    <Compile Include="eforms\acc\OutstandingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\OutstandingForm.Designer.cs">
+      <DependentUpon>OutstandingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\OutstandingViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\OutstandingViewForm.Designer.cs">
+      <DependentUpon>OutstandingViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingErrorBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingErrorBox.Designer.cs">
+      <DependentUpon>OutstandingErrorBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingPreviewDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingPreviewDetailForm.Designer.cs">
+      <DependentUpon>OutstandingPreviewDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingPreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingPreviewForm.Designer.cs">
+      <DependentUpon>OutstandingPreviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\OutstandingSelectionForm.Designer.cs">
+      <DependentUpon>OutstandingSelectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\VendorMasterAttachmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\VendorMasterAttachmentForm.Designer.cs">
+      <DependentUpon>VendorMasterAttachmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\VendorSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\subforms\VendorSearchForm.Designer.cs">
+      <DependentUpon>VendorSearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\acc\VendorMasterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\acc\VendorMasterForm.Designer.cs">
+      <DependentUpon>VendorMasterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmAirForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmAirForm.Designer.cs">
+      <DependentUpon>AdmAirForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmApplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmApplicationForm.Designer.cs">
+      <DependentUpon>AdmApplicationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmChopForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmChopForm.Designer.cs">
+      <DependentUpon>AdmChopForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmForm.Designer.cs">
+      <DependentUpon>AdmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmKeyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmKeyForm.Designer.cs">
+      <DependentUpon>AdmKeyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmLiftForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmLiftForm.Designer.cs">
+      <DependentUpon>AdmLiftForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmParkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmParkForm.Designer.cs">
+      <DependentUpon>AdmParkForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmPurchaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmPurchaseForm.Designer.cs">
+      <DependentUpon>AdmPurchaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmRepairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmRepairForm.Designer.cs">
+      <DependentUpon>AdmRepairForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmStampForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmStampForm.Designer.cs">
+      <DependentUpon>AdmStampForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\AdmUtil.cs" />
+    <Compile Include="eforms\adm\AdmVisaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\AdmVisaForm.Designer.cs">
+      <DependentUpon>AdmVisaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\adm\subforms\DeptSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\adm\subforms\DeptSelectionForm.Designer.cs">
+      <DependentUpon>DeptSelectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\ApprovalView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="eforms\ApprovalView.Designer.cs">
+      <DependentUpon>ApprovalView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\CmUtil.cs" />
+    <Compile Include="eforms\cm\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\CustomerForm.Designer.cs">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\DebitCreditNoteFormView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\DebitCreditNoteFormView.Designer.cs">
+      <DependentUpon>DebitCreditNoteFormView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\DebitCreditNoteForm3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\DebitCreditNoteForm3.Designer.cs">
+      <DependentUpon>DebitCreditNoteForm3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\DebitCreditNoteFormView2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\DebitCreditNoteFormView2.Designer.cs">
+      <DependentUpon>DebitCreditNoteFormView2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\DebitNoteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\DebitNoteForm.Designer.cs">
+      <DependentUpon>DebitNoteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\DebitNoteForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\DebitNoteForm2.Designer.cs">
+      <DependentUpon>DebitNoteForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\RejectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\RejectForm.Designer.cs">
+      <DependentUpon>RejectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\CurrencySearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\CurrencySearchForm.Designer.cs">
+      <DependentUpon>CurrencySearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\CustomerSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\CustomerSearchForm.Designer.cs">
+      <DependentUpon>CustomerSearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\DebitSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\DebitSelectionForm.Designer.cs">
+      <DependentUpon>DebitSelectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\DescriptionSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\DescriptionSelectionForm.Designer.cs">
+      <DependentUpon>DescriptionSelectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\NumberInputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\cm\subforms\NumberInputForm.Designer.cs">
+      <DependentUpon>NumberInputForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\Eform.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="eforms\Eform.Designer.cs">
+      <DependentUpon>Eform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\FormHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="eforms\FormHistory.Designer.cs">
+      <DependentUpon>FormHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\FormInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\FormInfo.Designer.cs">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\FormOverview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="eforms\FormOverview.Designer.cs">
+      <DependentUpon>FormOverview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\FormR3Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\FormR3Info.Designer.cs">
+      <DependentUpon>FormR3Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\FormSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\FormSelection.Designer.cs">
+      <DependentUpon>FormSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\AssetLoaning\AssetLoaningMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\AssetLoaning\AssetLoaningMain.Designer.cs">
+      <DependentUpon>AssetLoaningMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\FormComment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\FormComment.Designer.cs">
+      <DependentUpon>FormComment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\FormIT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\FormIT.Designer.cs">
+      <DependentUpon>FormIT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\FormITApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\FormITApplication.Designer.cs">
+      <DependentUpon>FormITApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\FormPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\FormPermission.Designer.cs">
+      <DependentUpon>FormPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\FormR3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\FormR3.Designer.cs">
+      <DependentUpon>FormR3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\FormR3Application.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\FormR3Application.Designer.cs">
+      <DependentUpon>FormR3Application.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\hra\FormSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eforms\hra\FormSupport.Designer.cs">
+      <DependentUpon>FormSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eforms\utils\FormUtil.cs" />
+    <Compile Include="forms\AttachmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\AttachmentForm.Designer.cs">
+      <DependentUpon>AttachmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\CopyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\CopyForm.Designer.cs">
+      <DependentUpon>CopyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\DocumentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\DocumentForm.Designer.cs">
+      <DependentUpon>DocumentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\KeywordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\KeywordForm.Designer.cs">
+      <DependentUpon>KeywordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\MultiShareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\MultiShareForm.Designer.cs">
+      <DependentUpon>MultiShareForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\NewFolderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\NewFolderForm.Designer.cs">
+      <DependentUpon>NewFolderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\NewGroupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\NewGroupForm.Designer.cs">
+      <DependentUpon>NewGroupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\NoticeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\NoticeForm.Designer.cs">
+      <DependentUpon>NoticeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\NoticeSendForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\NoticeSendForm.Designer.cs">
+      <DependentUpon>NoticeSendForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\OutsideShareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\OutsideShareForm.Designer.cs">
+      <DependentUpon>OutsideShareForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\PasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\PasswordForm.Designer.cs">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\PropertyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\PropertyForm.Designer.cs">
+      <DependentUpon>PropertyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ReceivedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ReceivedForm.Designer.cs">
+      <DependentUpon>ReceivedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\RelocationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\RelocationForm.Designer.cs">
+      <DependentUpon>RelocationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\RenameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\RenameForm.Designer.cs">
+      <DependentUpon>RenameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\CustomGroupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\CustomGroupForm.Designer.cs">
+      <DependentUpon>CustomGroupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\SingleShareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\SingleShareForm.Designer.cs">
+      <DependentUpon>SingleShareForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\SplashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\SplashForm.Designer.cs">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\UserGlobalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\UserGlobalForm.Designer.cs">
+      <DependentUpon>UserGlobalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\UserHeadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\UserHeadForm.Designer.cs">
+      <DependentUpon>UserHeadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lists\AttachmentList.cs" />
+    <Compile Include="lists\ContactList.cs" />
+    <Compile Include="lists\CopyFileList.cs" />
+    <Compile Include="lists\CustomGroupList.cs" />
+    <Compile Include="lists\DataList.cs" />
+    <Compile Include="lists\DictionaryUtil.cs" />
+    <Compile Include="lists\DiscList.cs" />
+    <Compile Include="lists\DocumentList.cs" />
+    <Compile Include="lists\FileList.cs" />
+    <Compile Include="lists\NoticeList.cs" />
+    <Compile Include="lists\PendingList.cs" />
+    <Compile Include="lists\ReceivedList.cs" />
+    <Compile Include="lists\RelocateList.cs" />
+    <Compile Include="lists\SharedList.cs" />
+    <Compile Include="lists\SystemGroupList.cs" />
+    <Compile Include="lists\UploadFileList.cs" />
+    <Compile Include="lists\UserCnList.cs" />
+    <Compile Include="lists\UserGlobalList.cs" />
+    <Compile Include="lists\UserJpList.cs" />
+    <Compile Include="lists\UserList.cs" />
+    <Compile Include="lists\UserVnList.cs" />
+    <Compile Include="LocalDbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalDbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="services\CmsService.cs" />
+    <Compile Include="services\DataService.cs" />
+    <Compile Include="services\DataServiceCM.cs" />
+    <Compile Include="services\DataServiceGeneral.cs" />
+    <Compile Include="services\DataServiceHR.cs" />
+    <Compile Include="services\DataServiceMaster.cs" />
+    <Compile Include="services\DataServiceMes.cs" />
+    <Compile Include="services\DataServiceMould.cs" />
+    <Compile Include="services\GlobalService.cs" />
+    <Compile Include="services\LocalDataService.cs" />
+    <Compile Include="uninstaller\ClickOnceRegistry.cs" />
+    <Compile Include="uninstaller\IUninstallStep.cs" />
+    <Compile Include="uninstaller\RemoveFiles.cs" />
+    <Compile Include="uninstaller\RemoveRegistryKeys.cs" />
+    <Compile Include="uninstaller\RemoveStartMenuEntry.cs" />
+    <Compile Include="uninstaller\RemoveUninstallEntry.cs" />
+    <Compile Include="uninstaller\Uninstaller.cs" />
+    <Compile Include="uninstaller\UninstallInfo.cs" />
+    <Compile Include="utils\ContactUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\DataUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\DiscUtil.cs" />
+    <Compile Include="utils\EformUtil.cs" />
+    <Compile Include="utils\EmailUtil.cs" />
+    <Compile Include="utils\FileUtil.cs" />
+    <Compile Include="utils\GridRowComparer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\GroupUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\ImageUtil.cs" />
+    <Compile Include="utils\MasterUtil.cs" />
+    <Compile Include="utils\McUtil.cs" />
+    <Compile Include="utils\MessageUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\PdfUtil.cs" />
+    <Compile Include="utils\PermissionUtil.cs" />
+    <Compile Include="utils\QueryUtil.cs" />
+    <Compile Include="utils\RootUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\RtfPrintUtil.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="utils\SecurityUtil.cs" />
+    <Compile Include="utils\SettingUtil.cs" />
+    <Compile Include="utils\SetupUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\SharedUtil.cs" />
+    <Compile Include="utils\StringUtil.cs" />
+    <Compile Include="utils\SystemUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\TreeviewUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utils\UserUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="views\ApplicationView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\ApplicationView.Designer.cs">
+      <DependentUpon>ApplicationView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\ApprovalView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\ApprovalView.Designer.cs">
+      <DependentUpon>ApprovalView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\DiscView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\DiscView.Designer.cs">
+      <DependentUpon>DiscView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\DocumentView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\DocumentView.Designer.cs">
+      <DependentUpon>DocumentView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\EformView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\EformView.Designer.cs">
+      <DependentUpon>EformView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\HomeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\HomeView.Designer.cs">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\PhoneView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\PhoneView.Designer.cs">
+      <DependentUpon>PhoneView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\SettingView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\SettingView.Designer.cs">
+      <DependentUpon>SettingView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\subviews\GroupSetupView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\subviews\GroupSetupView.Designer.cs">
+      <DependentUpon>GroupSetupView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\subviews\PasswordResetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\subviews\PasswordResetForm.Designer.cs">
+      <DependentUpon>PasswordResetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\subviews\PasswordSetupView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\subviews\PasswordSetupView.Designer.cs">
+      <DependentUpon>PasswordSetupView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xmls\AppsInfo.cs" />
+    <Compile Include="xmls\ContactsInfo.cs" />
+    <Compile Include="xmls\SettingInfo.cs" />
+    <EmbeddedResource Include="backup\Backup.resx">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="backup\ErrorBox.resx">
+      <DependentUpon>ErrorBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\OutstandingForm.resx">
+      <DependentUpon>OutstandingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\OutstandingViewForm.resx">
+      <DependentUpon>OutstandingViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\subforms\OutstandingErrorBox.resx">
+      <DependentUpon>OutstandingErrorBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\subforms\OutstandingPreviewDetailForm.resx">
+      <DependentUpon>OutstandingPreviewDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\subforms\OutstandingPreviewForm.resx">
+      <DependentUpon>OutstandingPreviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\subforms\OutstandingSelectionForm.resx">
+      <DependentUpon>OutstandingSelectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\subforms\VendorMasterAttachmentForm.resx">
+      <DependentUpon>VendorMasterAttachmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\subforms\VendorSearchForm.resx">
+      <DependentUpon>VendorSearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\acc\VendorMasterForm.resx">
+      <DependentUpon>VendorMasterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmAirForm.resx">
+      <DependentUpon>AdmAirForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmApplicationForm.resx">
+      <DependentUpon>AdmApplicationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmChopForm.resx">
+      <DependentUpon>AdmChopForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmForm.resx">
+      <DependentUpon>AdmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmKeyForm.resx">
+      <DependentUpon>AdmKeyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmLiftForm.resx">
+      <DependentUpon>AdmLiftForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmParkForm.resx">
+      <DependentUpon>AdmParkForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmPurchaseForm.resx">
+      <DependentUpon>AdmPurchaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmRepairForm.resx">
+      <DependentUpon>AdmRepairForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmStampForm.resx">
+      <DependentUpon>AdmStampForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\AdmVisaForm.resx">
+      <DependentUpon>AdmVisaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\adm\subforms\DeptSelectionForm.resx">
+      <DependentUpon>DeptSelectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\ApprovalView.resx">
+      <DependentUpon>ApprovalView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\CustomerForm.resx">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\DebitCreditNoteFormView.resx">
+      <DependentUpon>DebitCreditNoteFormView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\DebitCreditNoteForm3.resx">
+      <DependentUpon>DebitCreditNoteForm3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\DebitCreditNoteFormView2.resx">
+      <DependentUpon>DebitCreditNoteFormView2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\DebitNoteForm.resx">
+      <DependentUpon>DebitNoteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\DebitNoteForm2.resx">
+      <DependentUpon>DebitNoteForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\RejectForm.resx">
+      <DependentUpon>RejectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\subforms\CurrencySearchForm.resx">
+      <DependentUpon>CurrencySearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\subforms\CustomerSearchForm.resx">
+      <DependentUpon>CustomerSearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\subforms\DebitSelectionForm.resx">
+      <DependentUpon>DebitSelectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\subforms\DescriptionSelectionForm.resx">
+      <DependentUpon>DescriptionSelectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\cm\subforms\NumberInputForm.resx">
+      <DependentUpon>NumberInputForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\Eform.resx">
+      <DependentUpon>Eform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\FormHistory.resx">
+      <DependentUpon>FormHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\FormInfo.resx">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\FormOverview.resx">
+      <DependentUpon>FormOverview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\FormR3Info.resx">
+      <DependentUpon>FormR3Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\FormSelection.resx">
+      <DependentUpon>FormSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\AssetLoaning\AssetLoaningMain.resx">
+      <DependentUpon>AssetLoaningMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\FormComment.resx">
+      <DependentUpon>FormComment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\FormIT.resx">
+      <DependentUpon>FormIT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\FormITApplication.resx">
+      <DependentUpon>FormITApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\FormPermission.resx">
+      <DependentUpon>FormPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\FormR3.resx">
+      <DependentUpon>FormR3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\FormR3Application.resx">
+      <DependentUpon>FormR3Application.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eforms\hra\FormSupport.resx">
+      <DependentUpon>FormSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\AttachmentForm.resx">
+      <DependentUpon>AttachmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\CopyForm.resx">
+      <DependentUpon>CopyForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\DocumentForm.resx">
+      <DependentUpon>DocumentForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\KeywordForm.resx">
+      <DependentUpon>KeywordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MultiShareForm.resx">
+      <DependentUpon>MultiShareForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\NewFolderForm.resx">
+      <DependentUpon>NewFolderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\NewGroupForm.resx">
+      <DependentUpon>NewGroupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\NoticeForm.resx">
+      <DependentUpon>NoticeForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\NoticeSendForm.resx">
+      <DependentUpon>NoticeSendForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\OutsideShareForm.resx">
+      <DependentUpon>OutsideShareForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\PasswordForm.resx">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\PropertyForm.resx">
+      <DependentUpon>PropertyForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ReceivedForm.resx">
+      <DependentUpon>ReceivedForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\RelocationForm.resx">
+      <DependentUpon>RelocationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\RenameForm.resx">
+      <DependentUpon>RenameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\CustomGroupForm.resx">
+      <DependentUpon>CustomGroupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\SingleShareForm.resx">
+      <DependentUpon>SingleShareForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\SplashForm.resx">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\UserGlobalForm.resx">
+      <DependentUpon>UserGlobalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\UserHeadForm.resx">
+      <DependentUpon>UserHeadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <EmbeddedResource Include="views\ApplicationView.resx">
+      <DependentUpon>ApplicationView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\ApprovalView.resx">
+      <DependentUpon>ApprovalView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\DiscView.resx">
+      <DependentUpon>DiscView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\DocumentView.resx">
+      <DependentUpon>DocumentView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\EformView.resx">
+      <DependentUpon>EformView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\PhoneView.resx">
+      <DependentUpon>PhoneView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\SettingView.resx">
+      <DependentUpon>SettingView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\subviews\GroupSetupView.resx">
+      <DependentUpon>GroupSetupView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\subviews\PasswordResetForm.resx">
+      <DependentUpon>PasswordResetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\subviews\PasswordSetupView.resx">
+      <DependentUpon>PasswordSetupView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="KDTHK-DM-SP_TemporaryKey.pfx" />
+    <None Include="LocalDbDataSet.xsc">
+      <DependentUpon>LocalDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LocalDbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LocalDbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LocalDbDataSet.xss">
+      <DependentUpon>LocalDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="backup\TextFile1.txt" />
+    <Content Include="eforms\cm\backup.txt" />
+    <Content Include="images\imgemail.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="lib\native\AdvancedDataGridView.dll" />
+    <Content Include="lib\native\CustomUtil.dll" />
+    <Content Include="lib\native\Itenso.Rtf.Converter.Html.dll" />
+    <Content Include="lib\native\Itenso.Rtf.Converter.Xml.dll" />
+    <Content Include="lib\native\Itenso.Rtf.Interpreter.dll" />
+    <Content Include="lib\native\Itenso.Rtf.Parser.dll" />
+    <Content Include="lib\native\Itenso.Sys.dll" />
+    <Content Include="lib\native\iTextAsian.dll" />
+    <Content Include="lib\native\iTextAsianCmaps.dll" />
+    <Content Include="lib\native\itextsharp.dll" />
+    <Content Include="lib\native\NRtfTree.dll" />
+    <Content Include="lib\native\sqlceca35.dll" />
+    <Content Include="lib\native\sqlcecompact35.dll" />
+    <Content Include="lib\native\sqlceer35EN.dll" />
+    <Content Include="lib\native\sqlceme35.dll" />
+    <Content Include="lib\native\sqlceoledb35.dll" />
+    <Content Include="lib\native\sqlceqp35.dll" />
+    <Content Include="lib\native\sqlcese35.dll" />
+    <None Include="Resources\arrow-180_gray.png" />
+    <None Include="Resources\arrow-180.png" />
+    <None Include="Resources\picture.png" />
+    <None Include="Resources\1442903802_pdf_16.png" />
+    <None Include="Resources\1442904111_windows_16.png" />
+    <None Include="Resources\1442913297_file-zip-alt.png" />
+    <None Include="Resources\tick.png" />
+    <None Include="Resources\minus-gray.png" />
+    <None Include="Resources\1425972057_bullet-blue24.png" />
+    <None Include="Resources\1451389874_China_flat.png" />
+    <None Include="Resources\1451389909_Japan.png" />
+    <None Include="Resources\1451389919_Vietnam_flat.png" />
+    <None Include="Resources\1451390632_Hong-Kong_flat.png" />
+    <None Include="Resources\1451389919_Vietnam_flat_gray.png" />
+    <None Include="Resources\1451390632_Hong-Kong_flat_gray.png" />
+    <None Include="Resources\1451389874_China_flat_gray.png" />
+    <None Include="Resources\1451389909_Japan_gray.png" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\exclamation-diamond.png" />
+    <None Include="Resources\circle_red.png" />
+    <None Include="Resources\circle.png" />
+    <None Include="Resources\circle_gray.png" />
+    <None Include="Resources\circle_orange.png" />
+    <None Include="Resources\error_16.png" />
+    <Content Include="xmls\setting.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Resources\1423646761_bullet-red24.png" />
+    <None Include="Resources\1423646926_bullet-green24.png" />
+    <None Include="Resources\1423646946_bullet-yellow24.png" />
+    <None Include="Resources\1423646946_bullet-yellow20.png" />
+    <None Include="Resources\1423646761_bullet-red20.png" />
+    <None Include="Resources\1423646926_bullet-green20.png" />
+    <None Include="Resources\clock.png" />
+    <None Include="Resources\disc-label.png" />
+    <None Include="Resources\status.png" />
+    <None Include="Resources\status-away.png" />
+    <None Include="Resources\status-busy.png" />
+    <None Include="Resources\status-offline.png" />
+    <None Include="Resources\television.png" />
+    <None Include="Resources\user-red.png" />
+    <None Include="Resources\users.png" />
+    <Content Include="xmls\apps.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xmls\contacts.xml" />
+    <None Include="Resources\1437984479_1-01.png" />
+    <None Include="Resources\document-invoice.png" />
+    <Content Include="STC-Cloud-Icon-300x300.ico" />
+    <None Include="Resources\1413786024_647719-word-16.png" />
+    <None Include="Resources\1413786562_647717-powerpoint-16.png" />
+    <None Include="Resources\1413785450_647714-excel-16.png" />
+    <None Include="Resources\cross.png" />
+    <None Include="Resources\1437394737_star.png" />
+    <None Include="Resources\temp.BMP" />
+    <None Include="Resources\1416312717_519838-50_Cloud_Arrow_Up-128_120.png" />
+    <None Include="Resources\right-button_basic_blue.png" />
+    <None Include="Resources\left-button_basic_blue.png" />
+    <None Include="Resources\1416312717_519838-50_Cloud_Arrow_Up-20.png" />
+    <None Include="Resources\1413786024_647719-word-20.png" />
+    <None Include="Resources\1413789569_keditbookmarks_16.png" />
+    <None Include="Resources\1413786562_647717-powerpoint-20.png" />
+    <None Include="Resources\1414580653_647716-pdf-20.png" />
+    <None Include="Resources\1413785450_647714-excel-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="eforms\ipo\" />
+    <Folder Include="eforms\log\" />
+    <Folder Include="eforms\mcc\" />
+    <Folder Include="eforms\rps\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{72D66D40-40F0-4B31-B9F0-206C1D4137F2}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SSCE">
+      <Guid>{CE4AACFA-3CFD-4028-B2D9-F272314F07C8}</Guid>
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
