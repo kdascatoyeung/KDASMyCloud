@@ -75,12 +75,13 @@ namespace KDTHK_DM_SP.eforms
 
         private void btnOK_Click(object sender, EventArgs e)
         {
+            string now = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss");
             if (!rbtnApprove.Checked && !rbtnReject.Checked)
                 DialogResult = DialogResult.Cancel;
             else if (rbtnApprove.Checked)
             {
                 string query = _status == "上司承認中" ? string.Format("update TB_FORM_R3 set r_approval = 'Yes', r_status = N'申請已發送' where r_chaseno = '{0}'", _chaseno)
-                    : string.Format("update TB_FORM_R3 set r_cmapproval = 'Yes', r_status = N'申請處理完成' where r_chaseno = '{0}'", _chaseno);
+                    : string.Format("update TB_FORM_R3 set r_cmapproval = 'Yes', r_cmappdate = '{0}', r_status = N'申請處理完成' where r_chaseno = '{1}'", now, _chaseno);
 
                 DataService.GetInstance().ExecuteNonQuery(query);
 

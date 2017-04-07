@@ -176,14 +176,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KDTHK-DM-SP.exe" size="4849152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KDTHK-DM-SP.exe" size="4873728">
       <assemblyIdentity name="KDTHK-DM-SP" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>chaT/DNiu9FiIiA+s08m5yUxyvA=</dsig:DigestValue>
+        <dsig:DigestValue>Lei7CSA4kkhF/nYm5tPbgxx1lOg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -32,7 +32,7 @@
     <WebPage>publish.htm</WebPage>
     <AutorunEnabled>true</AutorunEnabled>
     <TrustUrlParameters>true</TrustUrlParameters>
-    <ApplicationRevision>318</ApplicationRevision>
+    <ApplicationRevision>319</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -162,7 +162,9 @@
     <Compile Include="backup\ErrorBox.Designer.cs">
       <DependentUpon>ErrorBox.cs</DependentUpon>
     </Compile>
-    <Compile Include="controls\DataGridViewRichTextBoxColumn.cs" />
+    <Compile Include="controls\DataGridViewRichTextBoxColumn.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="controls\DrawRtfText.cs">
       <SubType>Component</SubType>
     </Compile>

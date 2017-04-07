@@ -14,7 +14,7 @@ namespace KDTHK_DM_SP.services
 
         private DataService()
         {
-            string connectionString = "server=KDTHK-INTDB\\KDTHK_DB;database=KDTHK_DB_DM_DEV;user id=sa;password=Aa123456";
+            string connectionString = "server=KDTHK-INTDB\\KDTHK_DB;database=KDTHK_DB_DM;user id=sa;password=Aa123456";
             //string connectionString = "server=HSP1DB01\\KM_SQUARE;database=KDTHK_DMV2;user id=general;password=JLgj2007";
             connection = new SqlConnection(connectionString);
             try
