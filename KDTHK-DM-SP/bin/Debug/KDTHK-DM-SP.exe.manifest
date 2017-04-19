@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="KDTHK-DM-SP.exe" version="1.0.0.305" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="KDTHK-DM-SP.exe" version="1.0.0.329" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="STC-Cloud-Icon-300x300.ico" asmv2:publisher="KDTHK" asmv2:product="MyCloud" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -64,6 +64,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
         <dsig:DigestValue>S2mDY3cvTD3fZDJXG0z3DJLiW+0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Common.dll" size="7680">
+      <assemblyIdentity name="Common" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>COTh31ZOnH6lUvSv8Ra6fIOWHC8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -188,14 +200,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KDTHK-DM-SP.exe" size="4941312">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KDTHK-DM-SP.exe" size="4942336">
       <assemblyIdentity name="KDTHK-DM-SP" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UqZ1NMA+He05mbqnPD9D/MYJzyc=</dsig:DigestValue>
+        <dsig:DigestValue>NbZIiWbCiP0oBpslxNPX9VTDJcQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -274,13 +286,13 @@
       <dsig:DigestValue>0ZEDaCBJxyJySpblGxiEbPvbemU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="KDTHK-DM-SP.exe.config" size="425">
+  <file name="KDTHK-DM-SP.exe.config" size="432">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>9kjGqnzwRu2Ux1pBYRy6jYwzcTk=</dsig:DigestValue>
+      <dsig:DigestValue>+eJ51j3ajLfiXhUs7CdyUWGi8RU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="lib\native\AdvancedDataGridView.dll" size="94208">
@@ -445,13 +457,13 @@
       <dsig:DigestValue>dZ1v+4aYQ4sfWDi1VUw/weyDXBA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LocalDb.sdf" size="102400">
+  <file name="LocalDb.sdf" size="102400" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>1J5Bi1akwDFbnprKJnidFOApsyo=</dsig:DigestValue>
+      <dsig:DigestValue>R6j/F60EjgPiACsPozlRHL4akYU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="STC-Cloud-Icon-300x300.ico" size="370070">

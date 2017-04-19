@@ -51,7 +51,7 @@ namespace KDTHK_DM_SP.forms
                     : currentUser == @"KMAS\AS1700060" ? "hkit002"
                     : currentUser == @"KMAS\AS1700061" ? "hkit003"
                     : currentUser == @"KMAS\AS060701057" ? "hkit004"
-                    : currentUser == @"KMAS\AS1700063" ? "hkit004" : "";
+                    : currentUser == @"KMAS\AS1700063" ? "AS1700063" : "";
 
                 GlobalService.DbTable = "TB_" + tb;
 
@@ -77,8 +77,8 @@ namespace KDTHK_DM_SP.forms
             }
 
             //GlobalService.User = "Hara Masatoshi(原雅俊)";
-            //GlobalService.User = "Anna Liu Yin Na (廖燕娜)";
-            //GlobalService.DbTable = "TB_hk170001";
+            //GlobalService.User = "Lee Suk Ha(李淑霞,Zoe)";
+            //GlobalService.DbTable = "TB_hk950193";
 
             if (!worker.IsBusy)
                 worker.RunWorkerAsync();

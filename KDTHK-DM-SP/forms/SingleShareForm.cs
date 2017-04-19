@@ -317,9 +317,9 @@ namespace KDTHK_DM_SP.forms
                     jplist.Add(row.Cells[0].Value.ToString().Trim());
             }
 
-            FileInfo info = new FileInfo(_filePath);
-            FileSecurity fs = info.GetAccessControl();
-            AuthorizationRuleCollection rules = fs.GetAccessRules(true, true, typeof(NTAccount));
+            //FileInfo info = new FileInfo(_filePath);
+            //FileSecurity fs = info.GetAccessControl();
+            //AuthorizationRuleCollection rules = fs.GetAccessRules(true, true, typeof(NTAccount));
 
             if (deleteList.Count > 0)
                 PermissionUtil.RemovePermission(deleteList, _filePath);

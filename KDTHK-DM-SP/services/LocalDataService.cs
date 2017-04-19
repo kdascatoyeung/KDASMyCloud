@@ -18,9 +18,8 @@ namespace KDTHK_DM_SP.services
 
         private LocalDataService()
         {
-            //string connectionString = "Data Source=" + Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), "LocalDb.sdf");
-
-            string connectionString = "Data Source=" + GlobalService.UserAppDataFolder;
+            string connectionString = "Data Source=" + Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), "LocalDb.sdf");
+            //string connectionString = "Data Source=" + GlobalService.UserAppDataFolder;
 
             //MessageBox.Show(connectionString);
 

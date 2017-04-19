@@ -611,7 +611,7 @@ namespace KDTHK_DM_SP.eforms.acc
                 string body = "<p><span style=\"font-family: Calibri;\">" + content + "</span></p>";
 
                 KDTHK_DM_SP.utils.EformUtil.SendApprovalEmail(invoice, GlobalService.User, AdUtil.GetEmailByUsername(GlobalService.User, "kmhk.local"), AdUtil.GetEmailByUsername(sectHead, "kmhk.local"), body, "Outstanding Slip");
-
+                
                 MessageBox.Show("Record has been saved.");
 
                 DialogResult = DialogResult.OK;

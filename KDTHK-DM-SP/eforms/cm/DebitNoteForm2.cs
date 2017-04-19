@@ -381,7 +381,7 @@ namespace KDTHK_DM_SP.eforms.cm
                     : payterm == "HK07" ? new DateTime(date.Year, date.Month, 1).AddMonths(2).AddDays(9).ToString("yyyy/MM/dd")
                     : payterm == "HK08" ? date.AddDays(7).ToString("yyyy/MM/dd")
                     : payterm == "HK09" ? date.AddDays(30).ToString("yyyy/MM/dd")
-                    : payterm == "HK51" ? new DateTime(date.Year, date.Month, 1).AddMonths(3).AddDays(9).ToString("yyyy/MM/dd")
+                    : payterm == "HK51" ? new DateTime(date.Year, date.Month, 1).AddMonths(2).AddDays(24).ToString("yyyy/MM/dd")
                     : payterm == "HK52" ? new DateTime(date.Year, date.Month, 1).AddMonths(3).AddDays(-1).ToString("yyyy/MM/dd")
                     : payterm == "HK53" ? new DateTime(date.Year, date.Month, 1).AddMonths(2).AddDays(-1).ToString("yyyy/MM/dd") : "";
 
@@ -1526,7 +1526,7 @@ namespace KDTHK_DM_SP.eforms.cm
                         : payterm == "HK07" ? new DateTime(date.Year, date.Month, 1).AddMonths(2).AddDays(9).ToString("yyyy/MM/dd")
                         : payterm == "HK08" ? date.AddDays(7).ToString("yyyy/MM/dd")
                         : payterm == "HK09" ? date.AddDays(30).ToString("yyyy/MM/dd")
-                        : payterm == "HK51" ? new DateTime(date.Year, date.Month, 1).AddMonths(3).AddDays(9).ToString("yyyy/MM/dd")
+                        : payterm == "HK51" ? new DateTime(date.Year, date.Month, 1).AddMonths(2).AddDays(24).ToString("yyyy/MM/dd")
                         : payterm == "HK52" ? new DateTime(date.Year, date.Month, 1).AddMonths(3).AddDays(-1).ToString("yyyy/MM/dd")
                         : payterm == "HK53" ? new DateTime(date.Year, date.Month, 1).AddMonths(2).AddDays(-1).ToString("yyyy/MM/dd") : "";
 

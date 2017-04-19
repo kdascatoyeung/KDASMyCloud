@@ -17,7 +17,7 @@
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>\\kdthk-dm1\project\IT System\MyCloud Beta\</PublishUrl>
     <Install>true</Install>
-    <InstallFrom>Disk</InstallFrom>
+    <InstallFrom>Unc</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
     <UpdateInterval>7</UpdateInterval>
@@ -29,10 +29,10 @@
     <ProductName>MyCloud</ProductName>
     <PublisherName>KDTHK</PublisherName>
     <MinimumRequiredVersion>1.0.0.224</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <AutorunEnabled>true</AutorunEnabled>
     <TrustUrlParameters>true</TrustUrlParameters>
-    <ApplicationRevision>319</ApplicationRevision>
+    <ApplicationRevision>329</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -138,6 +138,7 @@
     </Reference>
     <Reference Include="System.DirectoryServices" />
     <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions">
       <Private>True</Private>
@@ -669,6 +670,7 @@
     </Compile>
     <Compile Include="utils\PdfUtil.cs" />
     <Compile Include="utils\PermissionUtil.cs" />
+    <Compile Include="utils\Privilege.cs" />
     <Compile Include="utils\QueryUtil.cs" />
     <Compile Include="utils\RootUtil.cs">
       <SubType>Code</SubType>
@@ -1102,6 +1104,9 @@
     <None Include="Resources\circle_gray.png" />
     <None Include="Resources\circle_orange.png" />
     <None Include="Resources\error_16.png" />
+    <Content Include="LocalDb.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="xmls\setting.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <SubType>Designer</SubType>

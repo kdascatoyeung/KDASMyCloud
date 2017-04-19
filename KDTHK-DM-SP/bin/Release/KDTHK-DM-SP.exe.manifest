@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="KDTHK-DM-SP.exe" version="1.0.0.318" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="KDTHK-DM-SP.exe" version="1.0.0.327" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="STC-Cloud-Icon-300x300.ico" asmv2:publisher="KDTHK" asmv2:product="MyCloud" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -63,7 +63,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>MRHY1abZTLkGs8BYU8FfWGPb9G8=</dsig:DigestValue>
+        <dsig:DigestValue>OZ+bBXeoYfFmJHFpWZrsZnq2QyQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -176,14 +176,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KDTHK-DM-SP.exe" size="4873728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KDTHK-DM-SP.exe" size="4873216">
       <assemblyIdentity name="KDTHK-DM-SP" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Lei7CSA4kkhF/nYm5tPbgxx1lOg=</dsig:DigestValue>
+        <dsig:DigestValue>Nsr67nKqOAIK9kaqugJhAt0aeco=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -419,6 +419,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>dZ1v+4aYQ4sfWDi1VUw/weyDXBA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="LocalDb.sdf" size="102400" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>R6j/F60EjgPiACsPozlRHL4akYU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="STC-Cloud-Icon-300x300.ico" size="370070">

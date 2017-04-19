@@ -853,13 +853,13 @@ namespace KDTHK_DM_SP.forms
                         }
                     }
 
-                    /*if (targetDirectory.StartsWith(@"\\kdthk-dm1\project\KDTHK-DM"))
+                    if (targetDirectory.StartsWith(@"\\kdthk-dm1\project\KDTHK-DM"))
                         File.SetAccessControl(targetDirectory, fs);
                     else
                     {
                         if (!targetDirectory.StartsWith(@"L:\") && !targetDirectory.StartsWith(@"M:\") && !targetDirectory.StartsWith(@"\\kdthk-dm1\project") && !targetDirectory.StartsWith(@"\\kdthk-dm1"))
                             File.SetAccessControl(targetDirectory, fs);
-                    }*/
+                    }
                     /* Commented out by Cato Yeung */
 
                     if (cnlist.Count > 0)

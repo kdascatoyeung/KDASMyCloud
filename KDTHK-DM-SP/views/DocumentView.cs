@@ -1902,7 +1902,7 @@ namespace KDTHK_DM_SP.views
 
             if (File.Exists(filePath))
             {
-                Process.Start("EXCEL.EXE", filePath);
+                Process.Start("EXCEL.EXE", "\"" + filePath + "\"");
                 DataUtil.AddReadCount(GlobalService.RootTable, filePath);
                 this.LoadData(GlobalService.RootTable, txtPath.Text, _viewMode);
             }

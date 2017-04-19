@@ -23,10 +23,16 @@ namespace KDTHK_DM_SP.utils
 
                 FileSecurity fs = info.GetAccessControl();
 
+                /* Start of Take Ownership by Cato Yeung 2016/04/10 */
+                //SecurityIdentifier cu = WindowsIdentity.GetCurrent().User;
+                //fs.SetOwner(cu);
+                //File.SetAccessControl(filePath, fs);
+                /* End of Take Ownership by Cato Yeung 2016/04/10 */
+
                 fs.SetAccessRuleProtection(true, false);
                 fs.AddAccessRule(new FileSystemAccessRule(@"kmhk\itadmin", FileSystemRights.FullControl, AccessControlType.Allow));
                 fs.AddAccessRule(new FileSystemAccessRule(AdUtil.GetUserIdByUsername(GlobalService.User, "kmhk.local"), FileSystemRights.FullControl, AccessControlType.Allow));
-
+                
                 foreach (string shared in sharedList)
                 {
                     string staffId = AdUtil.GetUserIdByUsername(shared.Trim(), "kmhk.local");
@@ -74,7 +80,7 @@ namespace KDTHK_DM_SP.utils
                         if (rule.IdentityReference.Value == @"KMHK\" + staffId)
                             fs.RemoveAccessRuleSpecific(rule);
 
-                    string tableName = "TB_" + staffId;
+                    /*string tableName = "TB_" + staffId;
 
                     string text = string.Format("delete from " + tableName + " where r_path = N'{0}'", sPath);
 
@@ -84,7 +90,7 @@ namespace KDTHK_DM_SP.utils
                     {
                         ceCommand.Parameters.AddWithValue("@text", text);
                         ceCommand.ExecuteNonQuery();
-                    }
+                    }*/
                 }
 
                 File.SetAccessControl(filePath, fs);
@@ -104,10 +110,16 @@ namespace KDTHK_DM_SP.utils
 
                 FileSecurity fs = info.GetAccessControl();
 
+                /* Start of Take Ownership by Cato Yeung 2016/04/10 */
+                //SecurityIdentifier cu = WindowsIdentity.GetCurrent().User;
+                //fs.SetOwner(cu);
+                //File.SetAccessControl(filePath, fs);
+                /* End of Take Ownership by Cato Yeung 2016/04/10 */
+
                 fs.SetAccessRuleProtection(true, false);
                 fs.AddAccessRule(new FileSystemAccessRule(@"kmhk\itadmin", FileSystemRights.FullControl, AccessControlType.Allow));
                 fs.AddAccessRule(new FileSystemAccessRule(AdUtil.GetUserIdByUsername(GlobalService.User, "kmhk.local"), FileSystemRights.FullControl, AccessControlType.Allow));
-
+                
                 foreach (string shared in list)
                 {
                     try
@@ -154,9 +166,9 @@ namespace KDTHK_DM_SP.utils
                         if (rule.IdentityReference.Value == prefix + staffId)
                             fs.RemoveAccessRuleSpecific(rule);
 
-                    string query = string.Format("delete from S_OUT_SHARE where o_path = N'{0}' and o_from = N'{1}' and o_toid = '{2}'", sPath, GlobalService.User, staffId);
+                    //string query = string.Format("delete from S_OUT_SHARE where o_path = N'{0}' and o_from = N'{1}' and o_toid = '{2}'", sPath, GlobalService.User, staffId);
                     //Debug.WriteLine("Query: " + query);
-                    DataServiceMes.GetInstance().ExecuteNonQuery(query);
+                    //DataServiceMes.GetInstance().ExecuteNonQuery(query);
                 }
 
                 File.SetAccessControl(filePath, fs);
@@ -216,9 +228,9 @@ namespace KDTHK_DM_SP.utils
                         if (rule.IdentityReference.Value == @"KMCN\" + staffId)
                             fs.RemoveAccessRuleSpecific(rule);
 
-                    string query = string.Format("delete from S_OUT_SHARE where o_path = N'{0}' and o_from = N'{1}' and o_toid = '{2}'", sPath, GlobalService.User, staffId);
+                    //string query = string.Format("delete from S_OUT_SHARE where o_path = N'{0}' and o_from = N'{1}' and o_toid = '{2}'", sPath, GlobalService.User, staffId);
                     //Debug.WriteLine("Query: " + query);
-                    DataServiceMes.GetInstance().ExecuteNonQuery(query);
+                    //DataServiceMes.GetInstance().ExecuteNonQuery(query);
                 }
 
                 File.SetAccessControl(filePath, fs);
